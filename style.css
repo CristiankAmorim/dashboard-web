@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color:aliceblue;
+}
+
+body {
+    background-color: rgb(74, 135, 192);
+}
+
+.texto_descritivo {
+    text-align: justify;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
